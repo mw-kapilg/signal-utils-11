@@ -11,3 +11,5 @@ Run the tests locally from the repository root:
 addpath("src")
 results = runtests("tests")
 ```
+
+Tests run automatically on every push.
